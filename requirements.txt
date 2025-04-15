@@ -1,0 +1,3 @@
+finnhub-python
+requests
+beautifulsoup4
