@@ -24,6 +24,7 @@ A Python-based bot that scrapes real-time stock data from Yahoo Finance and clas
 
 - `main.py` – main bot logic
 - `README.md` – project info
+- `requirements.md` – what extensions are needed
 
 ## 🧠 Author
 
