@@ -26,7 +26,7 @@ A Python-based bot that scrapes real-time stock data from Yahoo Finance and clas
 - `README.md` – project info
 - `requirements.md` – what extensions are needed
 
-## 🧠 Author
+## 👤 Author
 
 Phong Ngo – Mechatronics Engineering Student | [LinkedIn](https://linkedin.com/in/phong-duong-ngo-36a6502b3)
 
