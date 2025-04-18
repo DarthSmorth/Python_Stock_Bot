@@ -8,10 +8,13 @@ A Python-based bot that scrapes real-time stock data from Moomoo and classifies 
 - Calculates percentage change over 3 days
 - Classifies stocks: 📈 Positive | ⚖️ Neutral | 📉 Negative
 
-## 🛠 Technologies
+## 🛠 Tech Stack
 
 - Python
-- BeautifulSoup / Requests
+- BeautifulSoup
+- Requests
+- FinnHub API
+- datetime, time (standard Python libraries)
 
 ## 📁 Files
 
