@@ -14,7 +14,7 @@ A Python-based bot that scrapes real-time stock data from Moomoo and classifies 
 - BeautifulSoup
 - Requests
 - FinnHub API
-- datetime, time (standard Python libraries)
+- Datetime, Time (standard Python libraries)
 
 ## 📁 Files
 
