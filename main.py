@@ -1,7 +1,7 @@
 import finnhub #Loads the finnhub library
 from datetime import datetime, timedelta #Imports tools from Pythons built-in datetime module, datetime-gives you the current date/time (like a clock) and timedelta-lets you do math with time (like "3 days ago")
 news_block = "" #Collect all news strings
-api_key = 'cvusrjpr01qjg13baol0cvusrjpr01qjg13baolg' #Saving personal API key into a variable for easy reuse
+api_key = 'cvusrjpr01qjg13baol0cvusrjpr01qjg13baolg' #Revoked API key, use another
 finnhub_client = finnhub.Client(api_key=api_key) #Creates a connection object that lets you talk to Finnhub's API using key
 
 import requests
